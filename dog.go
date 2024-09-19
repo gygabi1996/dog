@@ -1,4 +1,4 @@
-package github.com/gygabi1996/dog
+package dog
 
 import (
 	"strings"
