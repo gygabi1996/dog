@@ -1,3 +1,3 @@
-module github.com/gygabi1996/dog
+module dog
 
 go 1.23.1
